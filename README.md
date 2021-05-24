@@ -1,6 +1,6 @@
 <div class="container">
 	<br>
-	<img src="Praveen-Sanpada1.jpg" class="praveen-img-top" alt="Praveen Sanpada" style="width:200px; height:200px;">
+	<img src="Praveen-Sanpada1.jpg" class="praveen-img-top" alt="Praveen Sanpada" style="width:100px; height:100px;">
 	<br><br>
 	<h1>Hi 👋, I'm Praveen</h1>
 	<hr>
