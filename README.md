@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Praveen Sanpada</title>
-</head>
-
-	<script type="text/javascript" src="bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-
-	<link rel="stylesheet" type="text/css" href="style.css">
-
-<body>
-
 <div class="container">
 	<br>
 	<img src="Praveen-Sanpada1.jpg" class="praveen-img-top" alt="Praveen Sanpada">
@@ -316,7 +303,6 @@
 	<p>copyright@praveensanpada.com</p>
 	<br><br><br>	
 </div>
-</body>
-</html>
+
 
 
