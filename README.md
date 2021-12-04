@@ -1,7 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Praveen Sanpada</title>
+
+
+	<script type="text/javascript" src="bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
 <div class="container">
 	<br>
-	<img src="Praveen-Sanpada1.jpg" class="praveen-img-top" alt="Praveen Sanpada" style="width:100px; height:100px;">
+
+	<!-- 1 -->
+
+	<img src="Praveen-Sanpada1.jpg" class="praveen-img-top" alt="Praveen Sanpada">
 	<br><br>
+
+	<!-- 2 -->
 	<h1>Hi 👋, I'm Praveen</h1>
 	<hr>
 	<h2>Sub Title</h2>
@@ -12,6 +31,8 @@
 	<br>
 	<h3>To become a successful expert in the field of Information Technology by channelinzing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.</h3>
 	<br><br>
+
+	<!-- 3 -->
 	<h2>Personal Information</h2>
 	<br>
 	<table>
@@ -49,6 +70,8 @@
 		</tr>
 	</table>
 	<br><br>
+
+	<!-- 4 -->
 	<h2>Work Area</h2>
 	<br>
 	<h4>🔭 I’m currently working on **Chatbot Development**</h4>
@@ -58,16 +81,23 @@
 	<h4>👨‍💻 All of my projects are available at **<a class="fa" href="https://github.com/praveensanpada" target="_blank">Click Here</a>**</h4>
 	<h4>📝 I regularly write articles on **<a class="fa" href="https://github.com/praveensanpada/blog" target="_blank">Click Here</a>**</h4>
 	<br><br>
+
+	<!-- 5 -->
 	<h2>💬 Ask me about</h2>
 	<br>
 	<h5>**HTML5, CSS3, JAVASCRIPT, PHP, MYSQL, REACT JS, REACT NATIVE, ANGULAR JS, NODE JS, EXPRESS JS, MONGODB,JAVA, PYTHON, DATA SCIENCE, MACHINE LEARNING, CLOUD COMPUTING, ANDROID DEVELOPMENT, etc**</h5>
 	<br><br>
+
+	<!-- 6 -->
 	<h2>📫 How to reach me</h2>
 	<br>
 	<h5>**PraveenSanpada@gmail.com**</h5>
 	<br><br>
+
+	<!-- 7 -->
 	<h2>Gallery</h2>
 	<br>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<img src="Praveen-Sanpada1.jpg" class="praveen-img" alt="Praveen Sanpada">
@@ -79,6 +109,7 @@
 			<img src="Praveen-Sanpada3.jpg" class="praveen-img" alt="Praveen Sanpada">
 		</div>
 	</div>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<img src="Praveen-Sanpada4.jpg" class="praveen-img" alt="Praveen Sanpada">
@@ -90,6 +121,7 @@
 			<img src="Praveen-Sanpada6.jpg" class="praveen-img" alt="Praveen Sanpada">
 		</div>
 	</div>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<img src="Praveen-Sanpada7.jpg" class="praveen-img" alt="Praveen Sanpada">
@@ -101,13 +133,162 @@
 			<img src="Praveen-Sanpada1.jpg" class="praveen-img" alt="Praveen Sanpada">
 		</div>
 	</div>
+
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada9.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada10.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada11.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada12.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada13.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada14.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada15.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada16.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada17.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada18.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada19.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada20.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada21.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada22.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada23.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada24.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada25.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada26.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada27.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada28.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada29.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada30.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada31.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada32.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada33.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada34.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada35.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada36.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada37.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada38.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada39.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada40.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada41.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<img src="Praveen-Sanpada43.jpg" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada33.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+		<div class="col-sm-4">				
+			<img src="Praveen-Sanpada28.webp" class="praveen-img" alt="Praveen Sanpada">
+		</div>
+	</div>
+
 	<br><br>
 	<h2>⚡ Fun fact</h2>
 	<br>
 	<h3>**I think I am Funny 😂😃, Interest in travelling 🧳, driving, yoga, playing music 🎵, cricket, etc.**</h3>
 	<br><br>
+
+
 	<h2>Programming Languages</h2>
 	<br>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<a href="https://www.cprogramming.com/" target="_blank"> 
@@ -125,6 +306,7 @@
 			</a>
 		</div>
 	</div>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -142,6 +324,7 @@
 			</a>
 		</div>
 	</div>
+
 	<br><br>
 	<h2>Frontend Development</h2>
 	<br>
@@ -162,6 +345,7 @@
 			</a>
 		</div>
 	</div>
+
 	<div class="row">
 		<div class="col-sm-4">
 			<a href="https://www.w3.org/html/" target="_blank"> 
@@ -179,6 +363,7 @@
 			</a>
 		</div>
 	</div>
+
 	<br><br>
 	<h2>Backend Development</h2>
 	<br>
@@ -200,6 +385,7 @@
 		</div>
 	</div>
 	<br><br>
+
 	<h2>Mobile App Development</h2>
 	<br>
 	<div class="row">
@@ -219,6 +405,7 @@
 		</div>
 	</div>
 	<br><br>
+
 	<h2>AI/ML</h2>
 	<br>
 	<div class="row">
@@ -239,6 +426,7 @@
 		</div>
 	</div>
 	<br><br>
+
 	<h2>Database</h2>
 	<br>
 	<div class="row">
@@ -259,6 +447,7 @@
 		</div>
 	</div>
 	<br><br>
+
 	<h2>Framework</h2>
 	<br>
 	<div class="row">
@@ -279,6 +468,7 @@
 		</div>
 	</div>
 	<br><br>
+
 	<h2>Other</h2>
 	<br>
 	<div class="row">
@@ -300,9 +490,73 @@
 	</div>
 	<br><br>
 	<hr>
+
+
+
+	<h2>Follow Me</h2>
+	<br>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<a href="https://www.facebook.com/praveen.sanpda.9" target="_blank"> 
+				<img src="facebook.jpeg" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="https://www.instagram.com/praveen_sanpada/" target="_blank"> 
+				<img src="instagram.jpeg" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="https://twitter.com/ImPraveen15798" target="_blank"> 
+				<img src="twitter.png" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+	</div>
+	<br><br>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<a href="https://www.linkedin.com/in/praveen-sanpada-933975170" target="_blank"> 
+				<img src="linkedin.jpeg" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="https://www.hackerearth.com/@2018cspraveen6825" target="_blank"> 
+				<img src="hackerearth.png" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="https://www.hackerrank.com/profile/Praveensanpada" target="_blank"> 
+				<img src="hackerrank.png" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+	</div>
+	<br><br>
+
+	<div class="row">
+		<div class="col-sm-4">
+			<a href="https://github.com/praveensanpada" target="_blank"> 
+				<img src="github.png" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="https://www.google.com/search?q=praveen+sanpada&oq=pra&aqs=chrome.0.69i59j69i57j69i60l3j69i65j69i60l2.1283j0j4&sourceid=chrome&ie=UTF-8" target="_blank"> 
+				<img src="google.jpeg" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+		<div class="col-sm-4">
+			<a href="http://praveensanpada123.website2.me/" target="_blank"> 
+				<img src="website.png" alt="Praveen Sanpada" class="praveen-lang"/> 
+			</a>
+		</div>
+	</div>
+	<br><br>
+	
 	<p>copyright@praveensanpada.com</p>
 	<br><br><br>	
 </div>
-
+</body>
+</html>
 
 
