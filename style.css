@@ -21,7 +21,7 @@ h2{
 	color: white;
 	padding: 15px;
 	border-radius: 50%;
-	width: 80%;
+	width: 100%;
 	margin: auto;
 	box-shadow: 0 0 10px black;
 	font-family: sans-serif;
@@ -37,7 +37,7 @@ td,th{
 
 table{
 	margin: auto;
-	width: 80%;
+	width: 100%;
 	text-align: center;
 
 }
@@ -55,8 +55,8 @@ a{
 }
 
 .praveen-img{
-	width: 280px;
-	height: 330px;
+	width: 290px;
+	height: 340px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px black;
 }
