@@ -10,6 +10,12 @@ h1{
 	font-family: sans-serif;
 }
 
+
+th{
+	text-align: center;
+}
+
+
 h2{
 	background: linear-gradient(45deg,red,black,red);
 	color: white;
